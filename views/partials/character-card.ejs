@@ -1,0 +1,16 @@
+<% if (locals.character) { %>
+  <article class="character-card">
+    <img 
+      src="<%= character.image %>" 
+      alt="<%= character.name %>"
+      class="character-card__image"
+    >
+    <h2 class="character-card__title"><%= character.name %></h2>
+    <a 
+      href="/personajes/<%= character.name.replaceAll(' ', '-').toLowerCase() %>"
+      class="character-card__link"
+    >
+      Ver personaje
+    </a>
+  </article>
+<% } %>

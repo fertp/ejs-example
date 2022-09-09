@@ -1,0 +1,30 @@
+  <%- include('../partials/head.ejs', { title: character.name ? character.name : 'No hay personaje' }) %>
+    <%- include('../partials/header.ejs') %>
+
+      <main>
+        <h1 class="title"><%= locals.character && character.name ? character.name : 'No hay character' %></h1>
+
+        <section class="characters-list">
+          <div class="character-list__container">
+            
+            <article class="character-card">
+              <img 
+                src="<%= locals.character && character.image ? character.image : 'No hay character' %>" 
+                alt="<%= locals.character && character.name ? character.name : 'No hay character' %>"
+                class="character-card__image"
+              >
+              <h2 class="character-card__title"><%= locals.character && character.name ? character.name : 'No hay character' %></h2>
+              <a 
+                href="/personajes/rick-sanchez"
+                class="character-card__link"
+              >
+                Ver personaje
+              </a>
+            </article>
+          
+          </div>
+        </section>
+      </main>
+    </div>
+
+  <%- include('../partials/footer.ejs') %>

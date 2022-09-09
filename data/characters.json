@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Rick Sanchez",
+    "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+    "species": "Human",
+    "status": "Alive",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://rickandmortyapi.com/api/location/3"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Morty Smith",
+    "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+    "species": "Human",
+    "status": "Alive",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://rickandmortyapi.com/api/location/3"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Summer Smith",
+    "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
+    "species": "Human",
+    "status": "Alive",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://rickandmortyapi.com/api/location/20"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Beth Smith",
+    "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg",
+    "species": "Human",
+    "status": "Alive",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://rickandmortyapi.com/api/location/20"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Jerry Smith",
+    "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg",
+    "species": "Human",
+    "status": "Alive",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://rickandmortyapi.com/api/location/20"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Abadango Cluster Princess",
+    "image": "https://rickandmortyapi.com/api/character/avatar/6.jpeg",
+    "species": "Alien",
+    "status": "Alive",
+    "location": {
+      "name": "Abadango",
+      "url": "https://rickandmortyapi.com/api/location/2"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Abradolf Lincler",
+    "image": "https://rickandmortyapi.com/api/character/avatar/7.jpeg",
+    "species": "Human",
+    "status": "unknown",
+    "location": {
+      "name": "Testicle Monster Dimension",
+      "url": "https://rickandmortyapi.com/api/location/21"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Adjudicator Rick",
+    "image": "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+    "species": "Human",
+    "status": "Dead",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://rickandmortyapi.com/api/location/3"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Agency Director",
+    "image": "https://rickandmortyapi.com/api/character/avatar/9.jpeg",
+    "species": "Human",
+    "status": "Dead",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://rickandmortyapi.com/api/location/20"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Alan Rails",
+    "image": "https://rickandmortyapi.com/api/character/avatar/10.jpeg",
+    "species": "Human",
+    "status": "Dead",
+    "location": {
+      "name": "Worldender's lair",
+      "url": "https://rickandmortyapi.com/api/location/4"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Albert Einstein",
+    "image": "https://rickandmortyapi.com/api/character/avatar/11.jpeg",
+    "species": "Human",
+    "status": "Dead",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://rickandmortyapi.com/api/location/20"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Alexander",
+    "image": "https://rickandmortyapi.com/api/character/avatar/12.jpeg",
+    "species": "Human",
+    "status": "Dead",
+    "location": {
+      "name": "Anatomy Park",
+      "url": "https://rickandmortyapi.com/api/location/5"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Alien Googah",
+    "image": "https://rickandmortyapi.com/api/character/avatar/13.jpeg",
+    "species": "Alien",
+    "status": "unknown",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://rickandmortyapi.com/api/location/20"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Alien Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/14.jpeg",
+    "species": "Alien",
+    "status": "unknown",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://rickandmortyapi.com/api/location/3"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Alien Rick",
+    "image": "https://rickandmortyapi.com/api/character/avatar/15.jpeg",
+    "species": "Alien",
+    "status": "unknown",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://rickandmortyapi.com/api/location/3"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Amish Cyborg",
+    "image": "https://rickandmortyapi.com/api/character/avatar/16.jpeg",
+    "species": "Alien",
+    "status": "Dead",
+    "location": {
+      "name": "Earth (Replacement Dimension)",
+      "url": "https://rickandmortyapi.com/api/location/20"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Annie",
+    "image": "https://rickandmortyapi.com/api/character/avatar/17.jpeg",
+    "species": "Human",
+    "status": "Alive",
+    "location": {
+      "name": "Anatomy Park",
+      "url": "https://rickandmortyapi.com/api/location/5"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Antenna Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/18.jpeg",
+    "species": "Human",
+    "status": "Alive",
+    "location": {
+      "name": "Citadel of Ricks",
+      "url": "https://rickandmortyapi.com/api/location/3"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Antenna Rick",
+    "image": "https://rickandmortyapi.com/api/character/avatar/19.jpeg",
+    "species": "Human",
+    "status": "unknown",
+    "location": { 
+      "name": "unknown", 
+      "url": "" 
+    }
+  },
+  {
+    "id": 20,
+    "name": "Ants in my Eyes Johnson",
+    "image": "https://rickandmortyapi.com/api/character/avatar/20.jpeg",
+    "species": "Human",
+    "status": "unknown",
+    "location": {
+      "name": "Interdimensional Cable",
+      "url": "https://rickandmortyapi.com/api/location/6"
+    }
+  }
+]
